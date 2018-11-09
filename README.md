@@ -2,9 +2,6 @@
 this a memory card game  or also Concentration game.
 ## what i built in my project ##
 my project is a memory card game which i designed it from **html ,css,javaScript and the Dom**
-## this is the game design ##
-Inline-style: 
-![alt text](https://github.com/hebamahmoudj/memoryGame/master/src/game.png "game design")
 ## How The User Play The Game ##
 the game consist of sixteen cards as a paired every two cards are the same ,the cards are randomly arranged and its face disappeared ,
 user try to flip two cards to see if there are matched or not 
@@ -14,3 +11,7 @@ user try to flip two cards to see if there are matched or not
 * if they are the same symbol both cards will flips  over .
 * if not the same they will flips down .
 * the player will win if he flips all the pair cards which every two have the same symbols.
+# How to Run the game :
+1- clone the reposotory.
+2- open index.html with any browser.
+
