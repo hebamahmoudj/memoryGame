@@ -4,7 +4,7 @@ this a memory card game  or also Concentration game.
 my project is a memory card game which i designed it from **html ,css,javaScript and the Dom**
 ## this is the game design ##
 Inline-style: 
-![alt text](https://github.com/hebamahmoudj/memoryGame/master/src/common/game.png "Logo Title Text 1")
+![alt text](https://github.com/hebamahmoudj/memoryGame/master/src/game.png "game design")
 ## How The User Play The Game ##
 the game consist of sixteen cards as a paired every two cards are the same ,the cards are randomly arranged and its face disappeared ,
 user try to flip two cards to see if there are matched or not 
