@@ -3,7 +3,7 @@
 
 * [overView](#overView)
 * [Installation](#installation)
-* [ Run The Project](#RunTheProject)
+* [ Run The Project](#HowToRunTheProject)
  # overView 
 this project is my fourth project in udacity aim to test the development process and 
 many organization practice a standard of development known as TDD this test the behaviour of the code .
@@ -11,7 +11,7 @@ many organization practice a standard of development known as TDD this test the 
 
   # instructions
 
- ## what i  was learn to make this project
+ ## What I  Was Learn To Make This Project :-
  i learn how to use jasmine library to test pre-existing apps and how the event handling and dom maipulation
  ##How To Use Jasmine Testing In The Project
  you shold know something before you use jasmine library  to test  
@@ -23,5 +23,5 @@ many organization practice a standard of development known as TDD this test the 
 
 
 # How To Run The Project
-1-download the project and extract it , open `index.html` with any browser.
-2-or run it using node js.
+1-Download the project and extract it , open `index.html` with any browser.
+2-Or run it using node js.
