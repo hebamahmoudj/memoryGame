@@ -3,6 +3,7 @@
 
 * [overView](#overview)
 * [Installation](#installation)
+[Testing](#Testing)
 * [ Run The Project](#HowToRunTheProject)
  # overView 
 this project is my fourth project in udacity aim to test the development process and 
@@ -21,11 +22,12 @@ many organization practice a standard of development known as TDD this test the 
  4- How does the expect function work? What do you pass into it?
  5-What is done's role in testing asynchronous processes?
  
-# About Testing 
+# Testing 
 * `RSS feed` test  it tests to make sure that the allFeeds variable has been defined , and feeds not empty, loops through each feed to ensure that has a name and URL and both not empty .
 * `The menu` test that the menu hidden by default, and also toggle on and off during  click event.
 * `Initial Entries`  test to ensures when the loadFeed complete its work , and ensure that the container which have class `.feed` 
 has at least single element which have class `entry` in it .
 * `New Feed Selection`   when  the feed loaded the content actually changed, using `loadfeed` function as asynchronous.
-1-Download the project and extract it , open `index.html` with any browser.
-2-Or run it using node js.
+# How To Run The Project
+1 -Download the project and extract it , open `index.html` with any browser.
+2 -Or run it using node js.
